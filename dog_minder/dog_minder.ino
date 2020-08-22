@@ -4,6 +4,9 @@
  *  Separate headers from implementation
  *  Accept that we are relying on Arduino lib for a project just for fun
  *  We aren't using the connection from command module to nano at all
+ *  
+ *  I really want to break this into a proper project layout, however, Arduino
+ *  support in eclipse has been pulled, and the new C++ dev env isn't out yet!
  */
 
 //Because we are using hardware serial for computer interface
